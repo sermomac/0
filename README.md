@@ -9,7 +9,8 @@
   - [DS Python](https://github.com/sermomac/TextEditor)
  - <b>Java</b>
   - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
-
+- <b>Python</b>
+  - [DS Python](https://github.com/sermomac/TextEditor)
 
 <h2> Certifications :</h2>
 
