@@ -1,12 +1,13 @@
 <h1>Hi, I'm Sergio! <br/><a href="https://github.com/sermomac">Software Engineer</a></h1>
 
 <h2>About:</h2>
-<b> Software Engineer with experience in building AI/ML systems, backend systems and automated pipelines. Experienced in python based development, APIs, Intelligent processing workflows, LLM pipelines, RAG architectures and production oriented could and DevOps environments. Combines strong ownership and problem-solving skills with focus on applied AI engineering, backend systems, software architecture, automation, and scalable application development. </b>
+<b> Software Engineer building AI/ML systems, APIs, backend systems and automated pipelines. </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python Text Editor Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/sermomac/TextEditor)
+- <b>Python</b>
+  - [DS Python](https://github.com/sermomac/TextEditor)
+ - <b>Java</b>
   - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
 
 
