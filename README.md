@@ -1,5 +1,8 @@
 <h1>Hi, I'm Sergio! <br/><a href="https://github.com/sermomac">Software Engineer</a></h1>
 
+<h2>About:</h2>
+<b> Software Engineer with experience in building AI/ML systems, backend systems and automated pipelines. Experienced in python based development, APIs, Intelligent processing workflows, LLM pipelines, RAG architectures and production oriented could and DevOps environments. Combines strong ownership and problem-solving skills with focus on applied AI engineering, backend systems, software architecture, automation, and scalable application development. </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Text Editor Practice (AlgoExpert)</b>
@@ -17,6 +20,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> Certifications :</h2>
+- [Java Fullstack]
+- [Android Development] 
 
 <h2>Research papers</h2>
 
