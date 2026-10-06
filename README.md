@@ -7,6 +7,7 @@
 
 - <b>Python Text Editor Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/sermomac/TextEditor)
+  - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
 
 
 <h2> Certifications :</h2>
