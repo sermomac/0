@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sergio! <br/><a href="https://github.com/sermomac">Software Engineer</a></h1>
+<h1>Hi, I'm Sergio! <br/><a href="https://www.linkedin.com/in/sergiomoisesmacarringue">Software Engineer</a></h1>
 
 <h2>About:</h2>
 <b> Software Engineer building AI/ML systems, APIs, backend systems and automated pipelines. </b>
