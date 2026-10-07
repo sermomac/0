@@ -9,8 +9,12 @@
   - [DS Python](https://github.com/sermomac/TextEditor)
 
 - <b>Java</b>
-  - [DMovie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
+  - [Movie API using JAVA & Sping Boot](https://github.com/sermomac/movie-api)
 
+- <b>React</b>
+  - [Movie APP using React.Js](https://github.com/sermomac/movie-app)
+ 
+  
 <h2> Certifications :</h2>
 
 - [Java Fullstack](https://imgur.com/a/1a0ScaE)
